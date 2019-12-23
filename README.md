@@ -1,5 +1,6 @@
-# ejercicios_codo_a_codo
-ejercicios resueltos de las practicas de java unidades 4,5,6.
+# Mis Ejercicios realizados de las unidades 4,5,6 del Aula Virtual Codo a Codo.
+# Lenguaje de Programación Java.
+
 "RECOMENDACION": CAMBIAR A MODO CODIGO PARA VISUALIZAR MEJOR LOS ENUNCIADOS DE LOS EJERCICIOS :)
 
 
