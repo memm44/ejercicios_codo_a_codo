@@ -3,7 +3,7 @@
 
 "RECOMENDACION": CAMBIAR A MODO CODIGO PARA VISUALIZAR MEJOR LOS ENUNCIADOS DE LOS EJERCICIOS :)
 
-
+Cada ejercicio se comprueba llamando al procedimiento con el nombre del ejercicioque se desea desde el metodo Main.
 ACTIVIDADES PRÁCTICAS 4
 Variables, Constantes, Tipos de Datos, Clase Math, Objeto
 Scanner, Operadores Unarios, Binarios y Matemáticos, Casting
