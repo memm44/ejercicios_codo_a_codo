@@ -322,4 +322,4 @@ Algoritmos de ordenamiento
 ordenamiento de un vector de 5 números enteros. El usuario ingresa los
 números que él desea, cree un vector para guardar temporalmente dichos
 datos y luego realice el ordenamiento del mismo a través del método de
-ordenamiento tipo burbuja.
+ordenamiento tipo burbuja..
