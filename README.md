@@ -1,5 +1,6 @@
 # ejercicios_codo_a_codo
 ejercicios resueltos de las practicas de java unidades 4,5,6.
+"RECOMENDACION": CAMBIAR A MODO CODIGO PARA VISUALIZAR MEJOR LOS ENUNCIADOS DE LOS EJERCICIOS :)
 ACTIVIDADES PRÁCTICAS 4
 Variables, Constantes, Tipos de Datos, Clase Math, Objeto
 Scanner, Operadores Unarios, Binarios y Matemáticos, Casting
